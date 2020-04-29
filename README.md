@@ -1,4 +1,12 @@
 # vue-calendar
+### Implemented Firebase Firestore to a custom Vue.js application using the Vuetify calendar component
+Instructed by Traversy Media tutorial on YouTube.
+
+## Screenshots
+
+![Month View](url)
+![Month View](url)
+![Month View](url)
 
 ## Project setup
 ```
