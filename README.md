@@ -3,10 +3,12 @@
 Instructed by Traversy Media tutorial on YouTube.
 
 ## Screenshots
-
-![Month View](url)
-![Month View](url)
-![Month View](url)
+### Month View
+![Month View](https://github.com/QuintonEL/vue-calendar/blob/master/docs/month.png?raw=true)
+### Event Details
+![Details](https://github.com/QuintonEL/vue-calendar/blob/master/docs/details.png?raw=true)
+### New Event
+![New Event](https://github.com/QuintonEL/vue-calendar/blob/master/docs/new.png?raw=true)
 
 ## Project setup
 ```
